@@ -24,8 +24,6 @@ public class AddressService {
         this.addressDao= addressDao;
     }
 
-//    @Autowired
-//    private ModelMapper modelMapper;
 
 
     public AddressDto createAddressOfEmployee(AddressDto addressDto){
